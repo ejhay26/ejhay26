@@ -1,11 +1,11 @@
 # <div align="center">EMMANUEL JOHN PEREZ</div>
-### <div align="center"><code>ejhay26</code> · Systems Tinkerer & Full-Stack Craftsman</div>
+### <div align="center"><code>ejhay26</code> // Systems Tinkerer & Full-Stack Craftsman</div>
 
 <div align="center">
 
-[![Live Portfolio](https://img.shields.io/badge/LIVE_PORTFOLIO-ejhay26.github.io-FFE600?style=for-the-badge&logo=googlechrome&logoColor=black)](https://ejhay26.github.io/)
-[![GitHub Commits](https://img.shields.io/badge/COMMITS-1%2C150%2B-A3E635?style=for-the-badge&logo=git&logoColor=black)](https://github.com/ejhay26)
-[![Location](https://img.shields.io/badge/LOCATION-PHILIPPINES-FF5E89?style=for-the-badge&logo=pinboard&logoColor=black)](https://ejhay26.github.io/)
+[![Live Portfolio](https://img.shields.io/badge/PORTFOLIO-ejhay26.github.io-FFE600?style=for-the-badge&logoColor=black)](https://ejhay26.github.io/)
+[![GitHub Commits](https://img.shields.io/badge/COMMITS-1%2C150%2B-A3E635?style=for-the-badge&logoColor=black)](https://github.com/ejhay26)
+[![Location](https://img.shields.io/badge/LOC-NUEVA_ECIJA_PH-38BDF8?style=for-the-badge&logoColor=black)](https://ejhay26.github.io/)
 
 </div>
 
@@ -15,16 +15,16 @@
   ┌────────────────────────────────────────────────────────────────────────┐
   │  "Multi-platform systems & apps by day.                                │
   │   Custom Wayland compositors & low-level kernel tinkering by night."   │
-  │   No AI templates. No bloated runtimes. Snappy code on the metal.      │
+  │   Zero AI templates. Zero bloated runtimes. Snappy code on the metal.  │
   └────────────────────────────────────────────────────────────────────────┘
 ```
 
-> 📍 **Nueva Ecija, Philippines** · Senior BSIT Student (Database & Systems Focus) at NEUST San Isidro Campus.  
-> 🌐 **Interactive Portfolio:** [**https://ejhay26.github.io**](https://ejhay26.github.io/) (Handcrafted with Anime.js)
+> **LOC:** Nueva Ecija, Philippines · Senior BSIT Student (Database & Systems Focus) at NEUST San Isidro Campus.  
+> **PORTAL:** [**https://ejhay26.github.io**](https://ejhay26.github.io/) (Handcrafted Anime.js Motion & Night Sky Engine)
 
 ---
 
-### ⚡ Proof of Work & Featured Systems
+### :: Proof of Work & Featured Systems
 
 <table>
   <thead>
@@ -37,7 +37,7 @@
   <tbody>
     <tr>
       <td>
-        <b><a href="https://github.com/ejhay26/Location-based-Emergency-Response-App-for-SINE-MDRRMO">🚨 SINE MDRRMO Emergency Platform</a></b><br/>
+        <b><a href="https://github.com/ejhay26/Location-based-Emergency-Response-App-for-SINE-MDRRMO">[01] SINE MDRRMO Emergency Platform</a></b><br/>
         <sub>Flagship Capstone Ecosystem</sub>
       </td>
       <td>
@@ -51,7 +51,7 @@
     </tr>
     <tr>
       <td>
-        <b><a href="https://github.com/ejhay26/Gabay">🧭 Gabay</a></b><br/>
+        <b><a href="https://github.com/ejhay26/Gabay">[02] Gabay</a></b><br/>
         <sub>Offline Geospatial Navigator</sub>
       </td>
       <td>
@@ -64,7 +64,7 @@
     </tr>
     <tr>
       <td>
-        <b><a href="https://github.com/ejhay26/myHyprland">🖥️ Wayland Ricing (Niri & Hyprland)</a></b><br/>
+        <b><a href="https://github.com/ejhay26/myHyprland">[03] Wayland Environments (Niri & Hyprland)</a></b><br/>
         <sub>Scrollable & Dynamic Tiling</sub>
       </td>
       <td>
@@ -78,7 +78,7 @@
     </tr>
     <tr>
       <td>
-        <b><a href="https://github.com/ejhay26/myHackintosh">⚙️ OpenCore Hackintosh EFI</a></b><br/>
+        <b><a href="https://github.com/ejhay26/myHackintosh">[04] OpenCore Hackintosh EFI</a></b><br/>
         <sub>Bare-Metal Kernel Patching</sub>
       </td>
       <td>
@@ -91,7 +91,7 @@
     </tr>
     <tr>
       <td>
-        <b><a href="https://github.com/ejhay26/myCustomiconFontPack">🔤 Custom Icon Font Pack</a></b><br/>
+        <b><a href="https://github.com/ejhay26/myCustomiconFontPack">[05] Custom Icon Font Pack</a></b><br/>
         <sub>Vector Glyphs & Typography</sub>
       </td>
       <td>
@@ -106,7 +106,7 @@
 
 ---
 
-### 🛠️ Hardware & Toolchain
+### :: Hardware & Toolchain
 
 ```ini
 [Desktop & Systems]   = Tauri v2 · Rust · C / ASL · Linux Kernel
@@ -117,12 +117,12 @@
 
 ---
 
-### 📬 Connect with Me
+### :: Transmission Channels
 
-- 🌐 **Full Interactive Portfolio:** [https://ejhay26.github.io](https://ejhay26.github.io)
-- ✉️ **Direct Email:** [ejperez623@gmail.com](mailto:ejperez623@gmail.com)
-- 💬 **GitHub:** [@ejhay26](https://github.com/ejhay26)
+- **Live Interactive Portfolio:** [https://ejhay26.github.io](https://ejhay26.github.io)
+- **Direct Email:** [ejperez623@gmail.com](mailto:ejperez623@gmail.com)
+- **GitHub:** [@ejhay26](https://github.com/ejhay26)
 
 <div align="center">
-  <sub>Handcrafted Neobrutalist Identity · Zero AI Template Slop · 2026</sub>
+  <sub>Handcrafted Neobrutalist Identity // Zero AI Slop // 2026</sub>
 </div>
